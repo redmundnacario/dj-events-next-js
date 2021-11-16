@@ -32,3 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+#eslint
+.eslintrc
+
+# DS Store
+.DS_Store
