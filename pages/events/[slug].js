@@ -1,4 +1,4 @@
-import Layout from "../../components/layout/Layout";
+import Layout from "@/components/layout/Layout";
 // import useRouter from "next/router";
 const EventPage = () => {
     // const slug = useRouter.router.query.slug;
